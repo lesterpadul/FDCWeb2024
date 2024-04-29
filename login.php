@@ -11,8 +11,6 @@
     
     this is a legit change 
     
-    asdadasdasd
-    
     this is a nother legit change
     
     <!-- add an iframe that plays a youtube video: rick roll -->
